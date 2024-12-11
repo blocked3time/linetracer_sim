@@ -1,6 +1,11 @@
 # lintracer_sim
 opencv라이브 러리를 사용한 라인 검출 알고리즘 
 
+블록도
+
+![image](https://github.com/user-attachments/assets/88ce19b6-a444-4b1c-b1c0-bcb4363ccdb0)
+
+
 모터 시뮬레이션 유튜브 링크 
 
 ![image](https://github.com/user-attachments/assets/191df94f-88ea-481e-88fa-a5b7655dd1de)
