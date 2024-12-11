@@ -3,6 +3,9 @@ opencv라이브 러리를 사용한 라인 검출 알고리즘
 
 모터 시뮬레이션 유튜브 링크 
 
+![image](https://github.com/user-attachments/assets/191df94f-88ea-481e-88fa-a5b7655dd1de)
+
+
 https://www.youtube.com/watch?v=RZYVFkru_ac&ab_channel=%EC%A0%95%EC%9A%A9%EA%B7%9C
 
 https://www.youtube.com/watch?v=g123CKNEtks&ab_channel=%EC%A0%95%EC%9A%A9%EA%B7%9C
